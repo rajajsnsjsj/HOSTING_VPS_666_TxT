@@ -1,0 +1,14 @@
+flask==3.0.3
+gunicorn==22.0.0
+werkzeug==3.0.3
+psutil>=5.9.0
+requests
+aiohttp
+httpx
+pycryptodome
+google-play-scraper
+protobuf-decoder
+protobuf
+cfonts
+urllib3
+PyJWT
